@@ -16,7 +16,7 @@ Logotipo:
 
 Miembros
  * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:  Jorge García Moreno     :octocat:
 
 ----- 
 
