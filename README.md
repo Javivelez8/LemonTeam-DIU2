@@ -40,7 +40,9 @@ Miembros
 >>> En primer lugar hemos creado a Sebastián![Persona 1](https://user-images.githubusercontent.com/40770870/111972278-953b9100-8afd-11eb-8034-a0182975685d.png) Es una persona de mediana edad que utiliza habitualmente las redes sociales y se ha interesado
 en la web debido a su trabajo y aficiones.
 
->>> La segunda persona que hemos elegido es Lourdes, una estudiante/trabajadora con una buena capacidad para moverse por Internet pero con no demasiada experiencia a la hora de realizar actividades al aire libre, tiene también algún que otro problema a la hora de comunicarse aunque
+>>> La segunda persona que hemos elegido es Lourdes 
+>>> ![Persona 2](https://user-images.githubusercontent.com/40770870/111972683-00856300-8afe-11eb-8716-3d42a2e72b17.png)
+Se trata de estudiante/trabajadora con una buena capacidad para moverse por Internet pero con no demasiada experiencia a la hora de realizar actividades al aire libre, se trata de una persona introvertida, por lo que aunque disfruta de realizar actividades al aire libre, posee cierta reticencia a la hora de llevar a cabo actividades grupales.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
