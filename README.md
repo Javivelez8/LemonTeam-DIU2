@@ -45,6 +45,12 @@ en la web debido a su trabajo y aficiones.
 
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres)
+<<<<<<< HEAD
+=======
+>>> 
+>>> En la segunda experiencia de usuario tenemos a Lourdes con la intención de realizar una excursión por Granada, ciudad a la que acaba de llegar, pero necesita encontrar un lugar en donde se asegure que la información proporcionada es segura y navegando entre páginas encuentra la de TourGranada y escoge una ruta por la montaña en bicicleta. Se trata de una práctica un poco específica pero algo habitual.
+>>> 
+>>>>>>> 9836675e821d8d5fd96deffbbf8f79c84800883b
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
