@@ -33,7 +33,8 @@ Miembros
 -----
 
 >>> [Turismo Madrid](https://www.esmadrid.com/) s una web centrada en la ciudad de Madrid. Nos ofrece diversas opciones y actividades
-para realizar en nuestro viaje.Está disponible en bastantes idiomas y permite visitar las redes sociales relacionadas con la ciudad de Madrid. Es bastante más simple y tiene un diseño, en nuestra opinión, peor que las otras dos opciones.
+para realizar en nuestro viaje.Está disponible en bastantes idiomas y permite visitar las redes sociales relacionadas con la ciudad de Madrid. Es bastante más simple y tiene un diseño, en nuestra opinión, peor que las otras dos opciones. Además no incluye la opción de
+planificar tu viaje, simplemente te muestra las distintas opciones de actividades que puedes realizar.
 
 >>> [Agenda Cultural-Galicia](https://www.turismo.gal/axenda-cultural?langId=es_ES)
 
