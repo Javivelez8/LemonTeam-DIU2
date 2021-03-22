@@ -38,6 +38,7 @@ Miembros
 -----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>>> La segunda persona que hemos elegido es Lourdes, una estudiante/trabajadora con una buena capacidad para moverse por Internet pero con no demasiada experiencia a la hora de realizar actividades al aire libre, tiene también algún que otro problema a la hora de comunicarse aunque 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
