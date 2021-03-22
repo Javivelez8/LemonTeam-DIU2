@@ -34,9 +34,9 @@ Miembros
 
 >>> [Turismo Madrid](https://www.esmadrid.com/) ->
 
->>> Agenda Cultural-Galicia ->
+>>> [Agenda Cultural-Galicia](https://www.turismo.gal/axenda-cultural?langId=es_ES) ->
 
->>> TuGranada ->
+>>> [TuGranada](https://www.turgranada.es/) ->
 
 
 
