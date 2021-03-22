@@ -36,7 +36,7 @@ Miembros
 para realizar en nuestro viaje.Está disponible en bastantes idiomas y permite visitar las redes sociales relacionadas con la ciudad de Madrid. Es bastante más simple y tiene un diseño, en nuestra opinión, peor que las otras dos opciones. Además no incluye la opción de
 planificar tu viaje, simplemente te muestra las distintas opciones de actividades que puedes realizar.
 
->>> [Agenda Cultural-Galicia](https://www.turismo.gal/axenda-cultural?langId=es_ES)
+>>> [Agenda Cultural-Galicia](https://www.turismo.gal/axenda-cultural?langId=es_ES): Se trata de una página que permite conocer las actividades culturales que se realizan en Galicia, ofreciendo sobretodo información abundante con respecto a las fechas y a los lugares en los que se va a realizar los distintos eventos. Posee un gran buscador que categoriza las distintas actividades según el tipo, el público, y si necesitan una entrada (gratuita o no). Posee una muy buena herramienta para planificar un viaje alrededor de Galicia, permitiendo seleccionar los días, organizar los lugares en donde hospedarse y comer y seleccionar las distintas actividades.
 
 >>> [TuGranada](https://www.turgranada.es/) es una página web nos permite planificar nuestro viaje además de ofrecernos ideas sobre
 las actividades que podríamos realizar en el destino que escojamos. Se centra en viajes a la ciudad de Granada.
