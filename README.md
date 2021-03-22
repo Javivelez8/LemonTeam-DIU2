@@ -38,7 +38,7 @@ planificar tu viaje, simplemente te muestra las distintas opciones de actividade
 
 >>> [Agenda Cultural-Galicia](https://www.turismo.gal/axenda-cultural?langId=es_ES): Se trata de una página que permite conocer las actividades culturales que se realizan en Galicia, ofreciendo sobretodo información abundante con respecto a las fechas y a los lugares en los que se va a realizar los distintos eventos. Posee un gran buscador que categoriza las distintas actividades según el tipo, el público, y si necesitan una entrada (gratuita o no). Posee una muy buena herramienta para planificar un viaje alrededor de Galicia, permitiendo seleccionar los días, organizar los lugares en donde hospedarse y comer y seleccionar las distintas actividades.
 
->>> [TuGranada](https://www.turgranada.es/) es una página web que nos permite planificar nuestro viaje además de ofrecernos ideas sobre
+>>> [TurGranada](https://www.turgranada.es/) es una página web que nos permite planificar nuestro viaje además de ofrecernos ideas sobre
 las actividades que podríamos realizar en el destino que escojamos. Se centra en viajes a la ciudad de Granada, lo cuál es una de las razones por las que hemos elegido esta opción sobre las otras. El diseño de la página y su forma de planificación de viajes nos parece más atractiva y fácil de usar.
 
 
@@ -71,11 +71,11 @@ vuelve a la página para disfrutar de nuevo sus servicios.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
+>>>  
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf)
->>> - Valoración final (numérica):
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> Documento con la valoracion
+>>> - Valoración final (numérica): 74 / 100
+>>> - Comentario sobre la valoración:
 
 
 ## Paso 2. UX Design  
