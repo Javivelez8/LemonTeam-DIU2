@@ -4,7 +4,7 @@
 
 ## Paso 1. UX Desk Research & Analisis
 
-![Método UX](img/Competitive.png) 1.a Competitive Analysis
+![Método UX](../img/Competitive.png) 1.a Competitive Analysis
 -----
 
 >>> [Turismo Madrid](https://www.esmadrid.com/) s una web centrada en la ciudad de Madrid. Nos ofrece diversas opciones y actividades
@@ -18,7 +18,7 @@ las actividades que podríamos realizar en el destino que escojamos. Se centra e
 
 
 
-![Método UX](img/Persona.png) 1.b Persona
+![Método UX](../img/Persona.png) 1.b Persona
 -----
 
 >>> En primer lugar hemos creado a Sebastián![Persona 1](https://user-images.githubusercontent.com/40770870/111972278-953b9100-8afd-11eb-8034-a0182975685d.png) Es una persona de mediana edad que utiliza habitualmente las redes sociales y se ha interesado
@@ -28,7 +28,7 @@ en la web debido a su trabajo y aficiones.
 >>> ![Persona 2](https://user-images.githubusercontent.com/40770870/111972683-00856300-8afe-11eb-8716-3d42a2e72b17.png)
 Se trata de estudiante/trabajadora con una buena capacidad para moverse por Internet pero con no demasiada experiencia a la hora de realizar actividades al aire libre, se trata de una persona introvertida, por lo que aunque disfruta de realizar actividades al aire libre, posee cierta reticencia a la hora de llevar a cabo actividades grupales.
 
-![Método UX](img/JourneyMap.png) 1.c User Journey Map
+![Método UX](../img/JourneyMap.png) 1.c User Journey Map
 ----
 
 
@@ -44,7 +44,7 @@ vuelve a la página para disfrutar de nuevo sus servicios.
 
 >>>
 
-![Método UX](img/usabilityReview.png) 1.d Usability Review
+![Método UX](../img/usabilityReview.png) 1.d Usability Review
 ----
 
 >>> - Documento con la valoracion:
