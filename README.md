@@ -50,6 +50,8 @@ Se trata de estudiante/trabajadora con una buena capacidad para moverse por Inte
 
 >>> En la primera experiencia de usuario vemos como Sebastián encuentra el sitio web, busca y reserva el tour que le interesa y finalmente tras acabar satisfecho con el tour,
 vuelve a la página para disfrutar de nuevo sus servicios.
+![Journeymap 1](https://user-images.githubusercontent.com/40770870/111973151-80133200-8afe-11eb-8e28-07e49f01d4fe.png)
+
 
 >>> En la segunda experiencia de usuario tenemos a Lourdes con la intención de realizar una excursión por Granada, ciudad a la que acaba de llegar, pero necesita encontrar un lugar en donde se asegure que la información proporcionada es segura y navegando entre páginas encuentra la de TourGranada y escoge una ruta por la montaña en bicicleta. Se trata de una práctica un poco específica pero algo habitual.
 
