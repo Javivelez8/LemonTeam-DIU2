@@ -32,7 +32,8 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> [Turismo Madrid](https://www.esmadrid.com/)
+>>> [Turismo Madrid](https://www.esmadrid.com/) s una web centrada en la ciudad de Madrid. Nos ofrece diversas opciones y actividades
+para realizar en nuestro viaje.Está disponible en bastantes idiomas y permite visitar las redes sociales relacionadas con la ciudad de Madrid. Es bastante más simple y tiene un diseño, en nuestra opinión, peor que las otras dos opciones.
 
 >>> [Agenda Cultural-Galicia](https://www.turismo.gal/axenda-cultural?langId=es_ES)
 
