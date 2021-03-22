@@ -37,6 +37,13 @@ Miembros
 >>> Agenda Cultural-Galicia ->
 
 >>> TuGranada ->
+>>> Tabla de Comparativas
+| Páginas | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
+| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
+| Gratis  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A
+| Opcion de pago  | H / 18   | Estudiante  | Media       | Timido       | Web        | A
+| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B
+| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B
 
 
 
