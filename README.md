@@ -71,11 +71,10 @@ vuelve a la página para disfrutar de nuevo sus servicios.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  
->>>> SE deben incluir claramente los siguientes elementos
->>> Documento con la valoracion
+
+>>> - Documento con la valoracion
 >>> - Valoración final (numérica): 74 / 100
->>> - Comentario sobre la valoración:
+>>> - Comentario sobre la valoración: La valoración de la página es buena en general, tiene algunos fallos como, por ejemplo, el sistema de búsquedas, la escasez de información en algunos de los servicios que ofrecen y los largos tiempos de carga en algunas de sus páginas. Obviando estos fallos la página cumple su función y ofrece un buen servicio a los clientes.
 
 
 ## Paso 2. UX Design  
