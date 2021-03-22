@@ -32,11 +32,11 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> [Turismo Madrid](https://www.esmadrid.com/) 
+>>> [Turismo Madrid](https://www.esmadrid.com/)
 
 >>> [Agenda Cultural-Galicia](https://www.turismo.gal/axenda-cultural?langId=es_ES)
 
->>> [TuGranada](https://www.turgranada.es/) es página web nos permite planificar nuestro viaje además de ofrecernos ideas sobre
+>>> [TuGranada](https://www.turgranada.es/) es una página web nos permite planificar nuestro viaje además de ofrecernos ideas sobre
 las actividades que podríamos realizar en el destino que escojamos. Se centra en viajes a la ciudad de Granada.
 
 
