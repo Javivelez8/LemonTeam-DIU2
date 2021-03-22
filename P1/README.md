@@ -1,5 +1,7 @@
 ## DIU - Practica1, entregables
 
+[Enlace al repositorio](https://github.com/Javivelez8/LemonTeam-DIU2)
+
 # Proceso de Diseño
 
 ## Paso 1. UX Desk Research & Analisis
