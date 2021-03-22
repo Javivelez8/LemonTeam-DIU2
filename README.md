@@ -32,11 +32,13 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Turismo Madrid ->
+>>> Turismo Madrid(https://www.esmadrid.com/) ->
 
 >>> Agenda Cultural-Galicia ->
 
 >>> TuGranada ->
+
+
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
