@@ -38,8 +38,6 @@ Miembros
 
 >>> [TuGranada](https://www.turgranada.es/) ->
 
-
-
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
