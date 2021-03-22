@@ -73,7 +73,7 @@ vuelve a la página para disfrutar de nuevo sus servicios.
 ----
 >>>  
 >>>> SE deben incluir claramente los siguientes elementos
->>> Documento con la valoracion
+>>> Documento con la valoracion: [Usability-review-template.pdf](https://github.com/Javivelez8/LemonTeam-DIU2/files/6181591/Usability-review-template.pdf)
 >>> - Valoración final (numérica): 74 / 100
 >>> - Comentario sobre la valoración:
 
