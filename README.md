@@ -38,8 +38,8 @@ planificar tu viaje, simplemente te muestra las distintas opciones de actividade
 
 >>> [Agenda Cultural-Galicia](https://www.turismo.gal/axenda-cultural?langId=es_ES)
 
->>> [TuGranada](https://www.turgranada.es/) es una página web nos permite planificar nuestro viaje además de ofrecernos ideas sobre
-las actividades que podríamos realizar en el destino que escojamos. Se centra en viajes a la ciudad de Granada.
+>>> [TuGranada](https://www.turgranada.es/) es una página web que nos permite planificar nuestro viaje además de ofrecernos ideas sobre
+las actividades que podríamos realizar en el destino que escojamos. Se centra en viajes a la ciudad de Granada, lo cuál es una de las razones por las que hemos elegido esta opción sobre las otras. El diseño de la página y su forma de planificación de viajes nos parece más atractiva y fácil de usar.
 
 
 
