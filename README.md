@@ -37,7 +37,7 @@ Miembros
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> En primer lugar hemos creado a Sebastián(P1/). Es una persona de mediana edad que utiliza habitualmente las redes sociales y se ha interesado
+>>> En primer lugar hemos creado a [Sebastián](P1/). Es una persona de mediana edad que utiliza habitualmente las redes sociales y se ha interesado
 en la web debido a su trabajo y aficiones.
 
 >>> La segunda persona que hemos elegido es Lourdes, una estudiante/trabajadora con una buena capacidad para moverse por Internet pero con no demasiada experiencia a la hora de realizar actividades al aire libre, tiene también algún que otro problema a la hora de comunicarse aunque
@@ -46,10 +46,11 @@ en la web debido a su trabajo y aficiones.
 ----
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres)
->>>
+>>> En la primera experiencia de usuario vemos como Sebastián encuentra el sitio web, busca y reserva el tour que le interesa y finalmente tras acabar satisfecho con el tour,
+vuelve a la página para disfrutar de nuevo sus servicios.
+
 >>> En la segunda experiencia de usuario tenemos a Lourdes con la intención de realizar una excursión por Granada, ciudad a la que acaba de llegar, pero necesita encontrar un lugar en donde se asegure que la información proporcionada es segura y navegando entre páginas encuentra la de TourGranada y escoge una ruta por la montaña en bicicleta. Se trata de una práctica un poco específica pero algo habitual.
->>>
+
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
