@@ -11,7 +11,8 @@
 ### TASK ANALYSIS
 
 * User Task Matrix 
-* User/Task flow
+![Matriz de tareas](https://user-images.githubusercontent.com/79601105/115152162-476c6700-a070-11eb-8d17-6158d50b4275.PNG)
+
 
 
 ### ARQUITECTURA DE INFORMACIÓN
