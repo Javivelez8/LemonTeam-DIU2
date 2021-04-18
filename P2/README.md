@@ -7,6 +7,9 @@
 ### PROPUESTA DE VALOR
 * ScopeCanvas
 
+![Scope_Canvas](https://user-images.githubusercontent.com/79601105/115152332-f3ae4d80-a070-11eb-9018-64205aee64d3.PNG)
+
+
 
 ### TASK ANALYSIS
 
@@ -19,10 +22,64 @@
 ### ARQUITECTURA DE INFORMACIÓN
 
 * Sitemap 
-* Labelling 
+
+![Esquema principal](https://user-images.githubusercontent.com/79601105/115152242-a29e5980-a070-11eb-8665-81ffca16ec1d.png)
+
+
+-Cabecera
+
+![Cabecera](https://user-images.githubusercontent.com/79601105/115152239-9e723c00-a070-11eb-856c-f0c108d0bc1e.png)
+
+
+-Extensión
+
+![Extensión](https://user-images.githubusercontent.com/79601105/115152238-9adeb500-a070-11eb-80a2-646d9fdcb4f3.PNG)
+
+
+-Cuerpo
+
+![Cuerpo](https://user-images.githubusercontent.com/79601105/115152223-88647b80-a070-11eb-8dd6-bf6b7d8762d1.PNG)
+
+-Pie
+
+![Pie](https://user-images.githubusercontent.com/79601105/115152232-94503d80-a070-11eb-8823-4ce6e504e8af.png)
+
+* Labelling
+
+![Labelling](https://user-images.githubusercontent.com/79601105/115152199-6cf97080-a070-11eb-881a-727a0e331bb1.PNG)
+
 
 
 ### Prototipo Lo-FI Wireframe 
+
+-Inicio Sesión
+
+![Inicio Sesion](https://user-images.githubusercontent.com/79601105/115152316-e4c79b00-a070-11eb-8ee0-c979b47c91dc.PNG)
+
+
+-Página Principal
+
+![Página Principal](https://user-images.githubusercontent.com/79601105/115152312-e2654100-a070-11eb-9511-a4e2d5763c77.PNG)
+
+
+-Vista extensión
+
+![Vista de extension](https://user-images.githubusercontent.com/79601105/115152309-ded1ba00-a070-11eb-898e-6a76789c0e3a.PNG)
+
+
+-Configuración
+
+![Configuracion](https://user-images.githubusercontent.com/79601105/115152305-db3e3300-a070-11eb-916a-6c2233f3d417.PNG)
+
+
+-Descripción Tours
+
+![Descripcion Tours](https://user-images.githubusercontent.com/79601105/115152299-d8dbd900-a070-11eb-9d42-8e61f02f961f.PNG)
+
+
+-Reserva Tour
+
+![Reserva Tour](https://user-images.githubusercontent.com/79601105/115152287-d1b4cb00-a070-11eb-9d12-c62256fa7dd8.PNG)
 
 
 ### Conclusiones  
