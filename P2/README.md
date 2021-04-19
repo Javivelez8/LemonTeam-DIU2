@@ -1,8 +1,12 @@
 ## DIU - Practica2, entregables
 
 ### Ideación 
-* Mapa de empatía
+* Mapa de empatía Lourdes:
 ![Customer Empathy Map1](https://user-images.githubusercontent.com/40770870/115151936-63233d80-a06f-11eb-8af4-b3e64e1ea5a5.png)
+
+* Mapa de empatía Sebastián:
+![Customer Empathy Map2](https://user-images.githubusercontent.com/40770870/115248708-3717c300-a128-11eb-80d5-a93b11723327.PNG)
+
 
 ### PROPUESTA DE VALOR
 * ScopeCanvas
