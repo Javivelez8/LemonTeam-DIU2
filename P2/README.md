@@ -5,7 +5,7 @@
 ![Customer Empathy Map1](https://user-images.githubusercontent.com/40770870/115151936-63233d80-a06f-11eb-8af4-b3e64e1ea5a5.png)
 
 * Mapa de empatía Sebastián:
-
+![Customer Empathy Map2](https://user-images.githubusercontent.com/40770870/115250032-7db9ed00-a129-11eb-880b-57dac80dce53.PNG)
 
 
 ### PROPUESTA DE VALOR
