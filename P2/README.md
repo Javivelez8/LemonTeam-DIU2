@@ -86,6 +86,10 @@
 
 ![Reserva Tour](https://user-images.githubusercontent.com/79601105/115152287-d1b4cb00-a070-11eb-9d12-c62256fa7dd8.PNG)
 
+### Navegación.
+
+![Navegación](https://user-images.githubusercontent.com/40770870/115255058-33873a80-a12e-11eb-84ff-37e6b3d0c1b9.PNG)
+
 
 ### Conclusiones  
 En esta estapa hemos dado importancia a las distintas tareas que tenemos que realizar durante el desarrollo de la aplicación para poder dar prioridad a las más importantes. Para ello hemos tenido en cuenta los dos mapas de empatía de los usuarios que probaron la aplicación y el Scope Canvas, en el que específicamos los objetivos y metas que tenemos. Además, hemos diseñado los bocetos iniciales para la apariencia de la aplicación y la estructura que tendrá la aplicación en el Sitemap. Hemos incluido también una leyenda con el significado de los distintos iconos que hemos utilizado en los bocetos.
