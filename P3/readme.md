@@ -1,4 +1,3 @@
-![LandingPage](https://user-images.githubusercontent.com/40770870/116892254-ed52d080-ac2f-11eb-8055-bf01648686dd.png)
 # DIU - Practica 3, entregables
 
 ## Moodboard (diseño visual + logotipo)   
@@ -28,6 +27,7 @@ Nos hemos decidido por la utilización de una paleta de colores cálidos, mayori
 
 ## Landing Page
 
+![LandingPage](https://user-images.githubusercontent.com/40770870/116892254-ed52d080-ac2f-11eb-8055-bf01648686dd.png)
 
 ## Mockup: LAYOUT HI-FI
 
