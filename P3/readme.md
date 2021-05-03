@@ -14,7 +14,7 @@ Hemos buscado información acerca de cómo deberíamos diseñar el logotipo de n
 ![Moonboard](https://user-images.githubusercontent.com/40770870/116888367-ab279000-ac2b-11eb-8c66-8d03022c0d53.PNG)
 
 Tipografía:
-Hemos dedicido utilizar la tipografía Open Sans, ya que se trata de un tipo de letra accesible para la correcta visualización por parte de todos los posibles individuos que emplearán nuestra aplicación.
+Hemos dedicido utilizar la tipografía Open Sans y sus derivados, ya que se trata de un tipo de letra accesible para la correcta visualización por parte de todos los posibles individuos que emplearán nuestra aplicación.
 
 ![Tipografía](https://user-images.githubusercontent.com/40770870/116890057-87fde000-ac2d-11eb-9558-41fc3787ab6b.png)
 
