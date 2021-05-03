@@ -2,6 +2,7 @@
 
 ## Moodboard (diseño visual + logotipo)   
 
+![Moonboard](https://user-images.githubusercontent.com/40770870/116888367-ab279000-ac2b-11eb-8c66-8d03022c0d53.PNG)
 
 ## Landing Page
 
