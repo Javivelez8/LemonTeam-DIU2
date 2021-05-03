@@ -20,7 +20,7 @@ Hemos dedicido utilizar la tipografía Open Sans y sus derivados, ya que se trat
 
 
 Paleta de colores:
-Nos hemos 
+Nos hemos decidido por la utilización de una paleta de colores cálidos, mayoritariamente formados por el color rojo/naranja, creando una gama de colores alegres, ya que buscamos que la aplicación sea acogedora, ya que se trata de un lugar en el que se organizan actividades que van a conllevar contacto social.
 
 ![PaletaColores](https://user-images.githubusercontent.com/40770870/116889719-2f2e4780-ac2d-11eb-8a8c-deef4c8adf28.PNG)
 
