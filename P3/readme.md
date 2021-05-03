@@ -3,6 +3,7 @@
 ## Moodboard (diseño visual + logotipo)   
 
 El logotipo final que hemos elegido es:
+
 ![Logo GrTours](https://user-images.githubusercontent.com/40770870/116888453-cbefe580-ac2b-11eb-9f2e-9efa941b6a01.PNG)
 
 
