@@ -30,7 +30,8 @@ Nos hemos decidido por la utilización de una paleta de colores cálidos, mayori
 Este sería nuestra página de inicio.
 En los Tours Destacados mostraríamos una serie de imágenes que vayan pasando mostrando las distintas actividades que se pueden realizar a través de nuestra aplicación, mostrando de una forma directa los productos que se pueden solicitar y realizar. En las siguientes zonas de mejor valorados se mostrarían otras visualizaciones sobre algunos tours en general y basados en el perfil de usuario que se conecte (si se ha registrado) mostraríamos algunos tours antiguos realizados. A la derecha se encuentra una penstaña para registrarse en el caso de aquellos usuarios que no se han registrado (aunque no es necesario para continuar).
 
-![LandingPage](https://user-images.githubusercontent.com/40770870/116892254-ed52d080-ac2f-11eb-8055-bf01648686dd.png)
+![Landing Page](https://user-images.githubusercontent.com/40770870/117671985-ab82d680-b1a9-11eb-9f16-c7479eb92f06.png)
+
 
 ## Mockup: LAYOUT HI-FI
 
