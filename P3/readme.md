@@ -38,6 +38,7 @@ En los Tours Destacados mostraríamos una serie de imágenes que vayan pasando m
 
 ## Mockup: LAYOUT HI-FI
 
+![LayoutHI-FI](https://user-images.githubusercontent.com/40770870/117682666-96ab4080-b1b3-11eb-944a-dc020032b3d5.PNG)
 
 ## Documentación: Publicación del Case Study
 
