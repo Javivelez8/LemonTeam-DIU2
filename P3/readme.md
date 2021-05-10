@@ -24,11 +24,11 @@ Hemos dedicido utilizar la tipografía Open Sans y sus derivados, ya que se trat
 Paleta de colores:
 Nos hemos decidido por la utilización de una paleta de colores cálidos, mayoritariamente formados por el color rojo/naranja, creando una gama de colores alegres, ya que buscamos que la aplicación sea acogedora, ya que se trata de un lugar en el que se organizan actividades que van a conllevar contacto social.
 
-![PaletaColores](https://user-images.githubusercontent.com/40770870/117684978-ce1aec80-b1b5-11eb-8ee9-c51eb40cc4fe.PNG)
+![PaletaColores](https://user-images.githubusercontent.com/40770870/117685830-9496b100-b1b6-11eb-9218-be322fbafdc4.PNG)
 
-MoonboardFinal:
+Moodboard Final:
 
-![MoonboardFinal](https://user-images.githubusercontent.com/40770870/117685344-2520c180-b1b6-11eb-9196-3e2a48feb5a7.PNG)
+![MoodboardFinal](https://user-images.githubusercontent.com/40770870/117685344-2520c180-b1b6-11eb-9196-3e2a48feb5a7.PNG)
 
 ## Landing Page
 
