@@ -32,6 +32,9 @@ En los Tours Destacados mostraríamos una serie de imágenes que vayan pasando m
 
 ![Landing Page](https://user-images.githubusercontent.com/40770870/117671985-ab82d680-b1a9-11eb-9f16-c7479eb92f06.png)
 
+## Guidelines
+
+- Hemos utilizado para obtener imput de los usuarios, para el patrón de diseño hemos utilizado un captcha para el inicio de sesión.
 
 ## Mockup: LAYOUT HI-FI
 
