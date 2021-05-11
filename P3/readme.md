@@ -38,8 +38,14 @@ En los Tours Destacados mostraríamos una serie de imágenes que vayan pasando m
 ![Landing Page](https://user-images.githubusercontent.com/40770870/117685179-f86caa00-b1b5-11eb-9630-3c1a065be975.png)
 
 ## Guidelines
+Hemos utilizado los siguientes patrones de diseño:
 
-- Hemos utilizado para obtener imput de los usuarios, para el patrón de diseño hemos utilizado un captcha para el inicio de sesión.
+ - Menu desplegable vertical: Hemos incluido un menu desplegable al pulsar el botón con las tres barras horizontales negras, en el que se muestran distintas funciones de  nuestra aplicación.
+ - Link a la página principal: Hemos incluido un enlace directo a la página principal de la aplicación al pulsar el Logo que aparece siempre en la parte superior de la pantalla.
+ - Notificaciones: Tenemos una pestaña de notificaciones que muestran al usuario distintos mensajes relevantes sobre nuestros servicios.
+ - Rellenar los huecos: En la pantalla de inicio de sesión hemos utilizado dos espacios en blanco con indicaciones sobre lo que tiene que escribir el usuario.
+ - Calendario: Hemos incluido un calendario con eventos programados para el usuario.
+ - Barra de búsqueda: En la parte superior de la pantalla hemos incluido una barra de búsqueda para permitir al usuario encontrar lo que necesita en todo momento.
 
 ## Mockup: LAYOUT HI-FI
 
