@@ -5,6 +5,7 @@
 Eslogan: ¡No viajamos para escapar de la vida, viajamos para que la vida no se nos escape!
 
 El objetivo de nuestra aplicación consiste en proporcionar información y acceso a varios tours que se promocionan alrededor de la ciudad de Granada. De esta manera otorgamos las herramientas necesarias para buscar distintas actividades tanto lúdicas como instructivas que se pueden realizar por la ciudad. Proporcionamos información correspondiente a cada evento así como también sobre la empresa/usuarios que se encargan de organizar dichas actividades. Ligado a todo ésto, también ayudamos a encontrar lugares en los que los usuarios pueden hospedarse y visitar lugares cercanos a las actividades que han elegido para comer.
+
 Uno de los principales problemas con respecto a las demás aplicaciones relacionadas con este tipo de servicio es que no se proporciona la información necesaria para poder realizar actividades como visitas o tours por la ciudad de forma online, nosotros proporcionamos una solución al indicar siempre quiénes son los usuarios que organizan estas actividades y nos aseguramos de adjuntar dicha información a cada uno de los eventos.
 
 El logotipo final que hemos elegido es:
