@@ -54,6 +54,6 @@ Hemos utilizado los siguientes patrones de diseño:
 
 ## Documentación: Publicación del Case Study
 
-
 (incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
  
+Inicialmente pensamos en escoger un eslogan que consiga captar la atención de los usuarios 
