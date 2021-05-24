@@ -10,7 +10,9 @@ Descripcion y hoja de valoración.
 
 ## Caso 2
 
-Descripcion y hoja de valoración.  
+Role-Play de Usuarios
+
+![image](https://user-images.githubusercontent.com/79601105/119360243-b316a500-bcaa-11eb-8384-868e3f05d439.png)
 
 
 ## Caso 3
