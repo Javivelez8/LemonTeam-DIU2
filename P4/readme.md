@@ -50,19 +50,15 @@ La media de las puntuaciones de la aplicación B es: 50.
 No recibe una puntuación alta, no obstante, se trata de un trabajo muy elaborado y adecuado y ha sufrido una penalización mayoritariamente por los tipos de usuarios que han realizado el test, ya que sus características y necesidades son difíciles de alcanzar. Por lo que la diferencia entre ellas no es tan elevada y ámbas son adecuadas para alcanzar el objetivo perseguido.
 Algunos comentarios sobre la aplicación B están relacionados con que la página principal presenta una visualización clara y adecuada, mostrando rápidamente el objetivo que buscaban perseguir los usuarios al utilizar esta aplicación.
 
-
-
-## Caso 3
-
-Descripcion y hoja de valoración.   
-
-## User Testing
-
-	Describe la experiencia 1
-
-	Describe la experiencia 2
-
-	Describe la experiencia 3
-
-
 ## Conclusiones
+
+En general, la página web está bien, no obstante puede presentar algunas dificultades a usuarios de elevada edad o que no estén acostumbrados a utilizar aplicaciones actuales o Internet.
+
+Hay una gran variedad de colores alegres (amarillo,naranja…) y tonalidades cálidas que alegran la vista e influyen positivamente en los usuarios que buscan actividades al aire libre (objetivos al que está destinado la aplicación) por lo que es un factor muy positivo.
+
+Los prototipos mostrados son adecuados y muestran varias características adecuadas.
+
+El usuario estudiante consigue realizar todas las tareas de la aplicación satisfactoriamente, dando a entender que la aplicación está diseñada correctamente.
+Recomendamos que se emplee un gran periodo de tiempo en desarrollar la accesibilidad con respecto al tamaño de la pantalla, ya que puede proporcionar problemas con el tamaño de la letra.
+
+Con respecto al A/B testing, las aplicaciones son bastante similares en cuanto al objetivo y al público al que se dirigen ámbas, y la diferencia en las puntuaciones se debe a la elección de los usuarios a la hora de realizar las pruebas.
