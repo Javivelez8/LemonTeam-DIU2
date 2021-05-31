@@ -29,7 +29,7 @@ Los iconos que se utilizan son clásicos, intuitivos y cómodos de ver.
 Presenta de una forma sencilla de mostrar cuál es el objetivo que el usuario puede estar buscando al utilizar la aplicación, ya que nada mas entrar muestra opciones como "Gastronomía, Monumentos...", enseñando qué tiene que clickar el usuario para indagar sobre esos temas.
 
 
-User Testing
+## User Testing
 
 Los usuarios que hemos elegido para realizar los test para evaluar tanto nuestra aplicación como la de LosArtistas son:
  - Juan, un hombre banquero de 45 años.
