@@ -29,9 +29,10 @@ Los iconos que se utilizan son clásicos, intuitivos y cómodos de ver.
 Presenta de una forma sencilla de mostrar cuál es el objetivo que el usuario puede estar buscando al utilizar la aplicación, ya que nada mas entrar muestra opciones como "Gastronomía, Monumentos...", enseñando qué tiene que clickar el usuario para indagar sobre esos temas.
 
 
-Role-Play de Usuarios
+User Testing
 
-![image](https://user-images.githubusercontent.com/79601105/119360243-b316a500-bcaa-11eb-8384-868e3f05d439.png)
+![Tabla](https://user-images.githubusercontent.com/40770870/120208621-faaeab00-c22d-11eb-8da1-54db14c862cf.PNG)
+
 
 
 ## Caso 3
