@@ -30,6 +30,11 @@ Presenta de una forma sencilla de mostrar cuál es el objetivo que el usuario pu
 
 
 User Testing
+Los usuarios que hemos elegido para realizar los test para evaluar tanto nuestra aplicación como la de LosArtistas son:
+ - Juan, un hombre banquero de 45 años.
+ - Rosa, una mujer profesora de 30 años con experiencia media.
+ - María, una estudiante de 20 años.
+ - Paco, un jubilado de 70 años.
 
 ![Tabla](https://user-images.githubusercontent.com/40770870/120208621-faaeab00-c22d-11eb-8da1-54db14c862cf.PNG)
 
