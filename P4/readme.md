@@ -39,16 +39,17 @@ Los usuarios que hemos elegido para realizar los test para evaluar tanto nuestra
 
 ![Tabla](https://user-images.githubusercontent.com/40770870/120208621-faaeab00-c22d-11eb-8da1-54db14c862cf.PNG)
 
-El cuestionario SUS puede consultarse aquí: 
-
-[DIU_report-usability-testOK.pdf](https://github.com/Javivelez8/LemonTeam-DIU2/files/6570966/DIU_report-usability-testOK.pdf)
-
+El cuestionario SUS de los 4 usuarios puede consultarse dentro del Usability Report. 
 
 La media de las puntuaciones de la aplicación A es: 62,5.
 Presenta una calificación buena, aunque no es del todo alta.
 La media de las puntuaciones de la aplicación B es: 50.
 No recibe una puntuación alta, no obstante, se trata de un trabajo muy elaborado y adecuado y ha sufrido una penalización mayoritariamente por los tipos de usuarios que han realizado el test, ya que sus características y necesidades son difíciles de alcanzar. Por lo que la diferencia entre ellas no es tan elevada y ámbas son adecuadas para alcanzar el objetivo perseguido.
 Algunos comentarios sobre la aplicación B están relacionados con que la página principal presenta una visualización clara y adecuada, mostrando rápidamente el objetivo que buscaban perseguir los usuarios al utilizar esta aplicación.
+
+## Usability Report
+
+[DIU_report-usability-testOK.pdf](https://github.com/Javivelez8/LemonTeam-DIU2/files/6570966/DIU_report-usability-testOK.pdf)
 
 ## Conclusiones
 
